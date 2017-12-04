@@ -42,3 +42,8 @@
                         git push -u origin master : 在 github 上就能看到同步的文件。
                         由于远程库是空的，我们第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。
                     6. git clone git@github.com:git-duanjl/accoumulate.git 克隆一个本地库
+            7.3.4 分支管理 ： 
+                    1.创建并切换 git checkout -b dev
+                        相当于 git branch dev
+                               git checkout dev 
+                    2.查看 git branch *代表当前分支
