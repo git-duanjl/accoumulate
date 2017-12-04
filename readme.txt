@@ -64,3 +64,8 @@ ceshi ceshi
 
 ceshi git merge --on-ff -m "adf" dev
       git log --braph --pretty=oneline --abbrev-commit
+
+
+      zai ci ce shi 
+    git merge --of-ff -m "sdf" dev
+    git log --graph --pretty=oneline --abrev-commit
