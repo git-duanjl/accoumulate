@@ -46,4 +46,4 @@
                     1.创建并切换 git checkout -b dev
                         相当于 git branch dev
                                git checkout dev 
-                    2.查看 git branch *代表当前分支
+                    2.查看 git branch *代表当前分s
