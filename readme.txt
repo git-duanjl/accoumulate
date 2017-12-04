@@ -61,3 +61,6 @@
 删除分支：git branch -d <name>
 
 ceshi ceshi
+
+ceshi git merge --on-ff -m "adf" dev
+      git log --braph --pretty=oneline --abbrev-commit
